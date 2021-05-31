@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "55cc1c90dc4204d66c22bb3f013bfd03",
+    "revision": "10683a4ee7e8ed90c430755683f61867",
     "url": "/airswap-interface/index.html"
   },
   {
@@ -60,8 +60,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/airswap-interface/static/js/9.b7c958ac.chunk.js"
   },
   {
-    "revision": "67d247e6fcf190585dce",
-    "url": "/airswap-interface/static/js/main.0bd779df.chunk.js"
+    "revision": "749bf64eb3243dde455f",
+    "url": "/airswap-interface/static/js/main.532db5d2.chunk.js"
   },
   {
     "revision": "c1b3fb5c06cc55411ed7",

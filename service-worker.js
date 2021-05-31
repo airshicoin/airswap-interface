@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/airswap-interface/precache-manifest.d3ab86d2b7c357a30aace156806ce9c4.js"
+  "/airswap-interface/precache-manifest.e70fab2160509e544c608b39195e94cf.js"
 );
 
 self.addEventListener('message', (event) => {
