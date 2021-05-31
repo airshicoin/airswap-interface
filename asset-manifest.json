@@ -4,8 +4,8 @@
     "static/js/0.05e25a48.chunk.js.map": "/airswap-interface/static/js/0.05e25a48.chunk.js.map",
     "static/js/1.76916c84.chunk.js": "/airswap-interface/static/js/1.76916c84.chunk.js",
     "static/js/1.76916c84.chunk.js.map": "/airswap-interface/static/js/1.76916c84.chunk.js.map",
-    "main.js": "/airswap-interface/static/js/main.c801575a.chunk.js",
-    "main.js.map": "/airswap-interface/static/js/main.c801575a.chunk.js.map",
+    "main.js": "/airswap-interface/static/js/main.0bd779df.chunk.js",
+    "main.js.map": "/airswap-interface/static/js/main.0bd779df.chunk.js.map",
     "runtime-main.js": "/airswap-interface/static/js/runtime-main.8af6747f.js",
     "runtime-main.js.map": "/airswap-interface/static/js/runtime-main.8af6747f.js.map",
     "static/css/4.b81d2c4a.chunk.css": "/airswap-interface/static/css/4.b81d2c4a.chunk.css",
@@ -22,7 +22,7 @@
     "static/js/9.b7c958ac.chunk.js": "/airswap-interface/static/js/9.b7c958ac.chunk.js",
     "static/js/9.b7c958ac.chunk.js.map": "/airswap-interface/static/js/9.b7c958ac.chunk.js.map",
     "index.html": "/airswap-interface/index.html",
-    "precache-manifest.cfcb4ea17ed15a0d1dee3b19ec96490d.js": "/airswap-interface/precache-manifest.cfcb4ea17ed15a0d1dee3b19ec96490d.js",
+    "precache-manifest.d3ab86d2b7c357a30aace156806ce9c4.js": "/airswap-interface/precache-manifest.d3ab86d2b7c357a30aace156806ce9c4.js",
     "service-worker.js": "/airswap-interface/service-worker.js",
     "static/css/4.b81d2c4a.chunk.css.map": "/airswap-interface/static/css/4.b81d2c4a.chunk.css.map",
     "static/js/0.05e25a48.chunk.js.LICENSE.txt": "/airswap-interface/static/js/0.05e25a48.chunk.js.LICENSE.txt",
@@ -64,6 +64,6 @@
     "static/js/runtime-main.8af6747f.js",
     "static/css/4.b81d2c4a.chunk.css",
     "static/js/4.738ba374.chunk.js",
-    "static/js/main.c801575a.chunk.js"
+    "static/js/main.0bd779df.chunk.js"
   ]
 }
