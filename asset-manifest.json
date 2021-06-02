@@ -4,13 +4,13 @@
     "static/js/0.05e25a48.chunk.js.map": "/airswap-interface/static/js/0.05e25a48.chunk.js.map",
     "static/js/1.76916c84.chunk.js": "/airswap-interface/static/js/1.76916c84.chunk.js",
     "static/js/1.76916c84.chunk.js.map": "/airswap-interface/static/js/1.76916c84.chunk.js.map",
-    "main.js": "/airswap-interface/static/js/main.53655e00.chunk.js",
-    "main.js.map": "/airswap-interface/static/js/main.53655e00.chunk.js.map",
+    "main.js": "/airswap-interface/static/js/main.b97820e7.chunk.js",
+    "main.js.map": "/airswap-interface/static/js/main.b97820e7.chunk.js.map",
     "runtime-main.js": "/airswap-interface/static/js/runtime-main.8af6747f.js",
     "runtime-main.js.map": "/airswap-interface/static/js/runtime-main.8af6747f.js.map",
     "static/css/4.b81d2c4a.chunk.css": "/airswap-interface/static/css/4.b81d2c4a.chunk.css",
-    "static/js/4.738ba374.chunk.js": "/airswap-interface/static/js/4.738ba374.chunk.js",
-    "static/js/4.738ba374.chunk.js.map": "/airswap-interface/static/js/4.738ba374.chunk.js.map",
+    "static/js/4.647ade8a.chunk.js": "/airswap-interface/static/js/4.647ade8a.chunk.js",
+    "static/js/4.647ade8a.chunk.js.map": "/airswap-interface/static/js/4.647ade8a.chunk.js.map",
     "static/js/5.b2affdff.chunk.js": "/airswap-interface/static/js/5.b2affdff.chunk.js",
     "static/js/5.b2affdff.chunk.js.map": "/airswap-interface/static/js/5.b2affdff.chunk.js.map",
     "static/js/6.2386cd25.chunk.js": "/airswap-interface/static/js/6.2386cd25.chunk.js",
@@ -22,11 +22,11 @@
     "static/js/9.b7c958ac.chunk.js": "/airswap-interface/static/js/9.b7c958ac.chunk.js",
     "static/js/9.b7c958ac.chunk.js.map": "/airswap-interface/static/js/9.b7c958ac.chunk.js.map",
     "index.html": "/airswap-interface/index.html",
-    "precache-manifest.be3a38dd196eb1cff1c0c012204d17a3.js": "/airswap-interface/precache-manifest.be3a38dd196eb1cff1c0c012204d17a3.js",
+    "precache-manifest.b0b791dbf9e8963550a148564eadcd2e.js": "/airswap-interface/precache-manifest.b0b791dbf9e8963550a148564eadcd2e.js",
     "service-worker.js": "/airswap-interface/service-worker.js",
     "static/css/4.b81d2c4a.chunk.css.map": "/airswap-interface/static/css/4.b81d2c4a.chunk.css.map",
     "static/js/0.05e25a48.chunk.js.LICENSE.txt": "/airswap-interface/static/js/0.05e25a48.chunk.js.LICENSE.txt",
-    "static/js/4.738ba374.chunk.js.LICENSE.txt": "/airswap-interface/static/js/4.738ba374.chunk.js.LICENSE.txt",
+    "static/js/4.647ade8a.chunk.js.LICENSE.txt": "/airswap-interface/static/js/4.647ade8a.chunk.js.LICENSE.txt",
     "static/js/5.b2affdff.chunk.js.LICENSE.txt": "/airswap-interface/static/js/5.b2affdff.chunk.js.LICENSE.txt",
     "static/js/6.2386cd25.chunk.js.LICENSE.txt": "/airswap-interface/static/js/6.2386cd25.chunk.js.LICENSE.txt",
     "static/js/7.85a094ae.chunk.js.LICENSE.txt": "/airswap-interface/static/js/7.85a094ae.chunk.js.LICENSE.txt",
@@ -63,7 +63,7 @@
   "entrypoints": [
     "static/js/runtime-main.8af6747f.js",
     "static/css/4.b81d2c4a.chunk.css",
-    "static/js/4.738ba374.chunk.js",
-    "static/js/main.53655e00.chunk.js"
+    "static/js/4.647ade8a.chunk.js",
+    "static/js/main.b97820e7.chunk.js"
   ]
 }
