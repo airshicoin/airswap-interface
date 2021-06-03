@@ -3,7 +3,7 @@ import { ChainId, JSBI, Percent, Token, WETH } from '@uniswap/sdk'
 
 import { fortmatic, injected, portis, walletconnect, walletlink } from '../connectors'
 
-export const ROUTER_ADDRESS = '0x04aE45CE9645632cB69B2ee1D9AA5a4d5Df947A0'
+export const ROUTER_ADDRESS = '0x95d8Ed2755cCa05347943371BbeB4F4149849d0D'
 
 // a list of tokens by chain
 type ChainTokenList = {
@@ -24,7 +24,7 @@ const WETH_ONLY: ChainTokenList = {
   [ChainId.GÖRLI]: [WETH[ChainId.GÖRLI]],
   [ChainId.KOVAN]: [WETH[ChainId.KOVAN]]
 }
-
+//0x67798147a3ef97f7a284ce56ec1a774b4e922c51
 // used to construct intermediary pairs for trading
 export const BASES_TO_CHECK_TRADES_AGAINST: ChainTokenList = {
   ...WETH_ONLY,
